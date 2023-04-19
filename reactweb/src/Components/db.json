@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "hiluf",
+            "age": "34",
+            "sex": "male"
+        },
+        {
+            "username": "hiluf",
+            "age": "34",
+            "sex": "male"
+        },
+        {
+            "username": "hiluf",
+            "age": "34",
+            "sex": "male"
+        },
+        {
+            "username": "hiluf",
+            "age": "34",
+            "sex": "male"
+        },
+        {
+            "username": "hiluf",
+            "age": "34",
+            "sex": "male"
+        }
+    ]
+}
